@@ -1,2 +1,2 @@
-this is txt2
+this is txt2 doing versioning
 
